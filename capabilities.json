@@ -1,0 +1,11 @@
+{
+  "mcp": {
+    "servers": [
+      { "server": "Claude Code Remote", "tools": ["list_triggers", "fire_trigger", "update_trigger"] },
+      { "server": "host:Filesystem", "tools": ["list_directory", "get_file_info"] }
+    ]
+  },
+  "db": {},
+  "user": {},
+  "sample": {}
+}
